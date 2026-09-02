@@ -194,19 +194,20 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Live GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananTripathi-future&theme=tokyonight" alt="Anant's Profile Details & Live Contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:7c3aed&height=120&section=header&text=Real-time%20Activity%20%26%20Contributions&fontSize=24&animation=fadeIn" alt="Live Waving Activity Header" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ananTripathi-future&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Anant's GitHub Stats" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=ananTripathi-future&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ananTripathi-future&show_icons=true&theme=tokyonight&hide=prs,issues,contrib&include_all_commits=true&hide_border=true" alt="Anant's GitHub Stats (Stars & Total Commits)" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=ananTripathi-future&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananTripathi-future&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananTripathi-future&theme=tokyonight" alt="GitHub Commit & Repository Summary" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ananTripathi-future&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
