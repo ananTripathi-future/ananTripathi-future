@@ -46,12 +46,13 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 ## 💼 Internship Experience
 
 ### 🔐 Cybersecurity Intern — Supraja Technologies
-📅 **Duration**: January 2026 – May 2026 | 📍 **Role**: Cybersecurity & VAPT Intern
+📅 **Duration**: 8 January 2026 – 3 May 2026
 
-- 🎯 **Vulnerability Assessment & Penetration Testing (VAPT)**: Conducted hands-on security audits and penetration testing across web applications, REST APIs, and network infrastructure to identify critical security risks.
-- 🛡️ **OWASP & Web Application Security**: Tested and exploited real-world security vulnerabilities including SQL Injection (SQLi), Cross-Site Scripting (XSS), CSRF, SSRF, LFI/RFI, CORS misconfigurations, JWT authentication flaws, WebSocket vulnerabilities, file upload exploits, and business logic flaws.
-- 🛠️ **Security Tooling & Traffic Analysis**: Utilized Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit, and Postman for payload crafting, network traffic analysis, vulnerability scanning, and API security testing.
-- 📋 **Threat Remediation & Secure Architecture**: Analyzed threat attack vectors, documented security findings, and assisted in formulating remediation strategies and patch recommendations aligned with industry security standards.
+- 📡 Performed network reconnaissance and service enumeration using Nmap.
+- 🌐 Conducted web application security testing using Burp Suite and vulnerability-testing environments.
+- 🔍 Analyzed HTTP requests, parameters, headers, cookies, and authentication mechanisms.
+- 🧪 Practiced vulnerability assessment against intentionally vulnerable applications.
+- 📋 Documented security findings and analyzed potential attack vectors and mitigations.
 
 ---
 
