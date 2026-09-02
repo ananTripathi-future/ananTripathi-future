@@ -41,7 +41,7 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 ```
 
 - 🔭 **Currently Focusing On**: DSA, Full-Stack Software Engineering, Purple Teaming & Post-Quantum Cryptography.
-- 🎓 **Education**: B.Tech CSE @ SRM IST (CGPA: 8.4 | Expected 2028)
+- 🎓 **Education**: B.Tech CSE @ SRM IST (CGPA: 8.57 | Expected 2028)
 - 📍 **Location**: Chennai, Tamil Nadu, India
 - 💬 **Ask Me About**: VAPT, Steganography, Qiskit, Post-Quantum Crypto (PQC), FastAPI & Python.
 
