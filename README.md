@@ -43,12 +43,43 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 ## 💼 Internship Experience
 
 ### 🔐 Cybersecurity Intern — Supraja Technologies
-**Duration**: January 2026 – May 2026 | **Tags**: `VAPT` `Web Security` `API Security` `Threat Detection` `Network Traffic Analysis`
+📅 **Duration**: January 2026 – May 2026
+
+<p>
+  <img src="https://img.shields.io/badge/VAPT-00F0FF?style=for-the-badge&logo=shield&logoColor=black" alt="VAPT" />
+  <img src="https://img.shields.io/badge/Web_Security-FF0055?style=for-the-badge&logo=security&logoColor=white" alt="Web Security" />
+  <img src="https://img.shields.io/badge/API_Security-FF9900?style=for-the-badge&logo=postman&logoColor=white" alt="API Security" />
+  <img src="https://img.shields.io/badge/Threat_Detection-8B5CF6?style=for-the-badge&logo=target&logoColor=white" alt="Threat Detection" />
+  <img src="https://img.shields.io/badge/Network_Traffic-10B981?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Traffic" />
+</p>
 
 > Gained hands-on experience in vulnerability assessment, penetration testing, ethical hacking, and secure systems design.
 
-- **Vulnerabilities Practiced**: `SQLi` `XSS` `HTML Injection` `LFI / RFI` `SSRF` `CSRF` `CORS` `JWT Flaws` `WebSocket Flaws` `File Upload Exploits` `Insecure Deserialization` `Business Logic Flaws`
-- **Security Tools Used**: `Kali Linux` `Burp Suite` `Nmap` `Wireshark` `Postman` `Metasploit`
+#### 🎯 Vulnerabilities Practiced
+<p>
+  <img src="https://img.shields.io/badge/SQLi-CC292B?style=flat-square&logo=mysql&logoColor=white" alt="SQLi" />
+  <img src="https://img.shields.io/badge/XSS-E44D26?style=flat-square" alt="XSS" />
+  <img src="https://img.shields.io/badge/HTML_Injection-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Injection" />
+  <img src="https://img.shields.io/badge/LFI%2FRFI-4F46E5?style=flat-square" alt="LFI/RFI" />
+  <img src="https://img.shields.io/badge/SSRF-059669?style=flat-square" alt="SSRF" />
+  <img src="https://img.shields.io/badge/CSRF-D97706?style=flat-square" alt="CSRF" />
+  <img src="https://img.shields.io/badge/CORS-DC2626?style=flat-square" alt="CORS" />
+  <img src="https://img.shields.io/badge/JWT_Flaws-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT Flaws" />
+  <img src="https://img.shields.io/badge/WebSocket_Flaws-2563EB?style=flat-square" alt="WebSocket Flaws" />
+  <img src="https://img.shields.io/badge/File_Upload_Exploits-7C3AED?style=flat-square" alt="File Upload Exploits" />
+  <img src="https://img.shields.io/badge/Insecure_Deserialization-DB2777?style=flat-square" alt="Insecure Deserialization" />
+  <img src="https://img.shields.io/badge/Business_Logic_Flaws-4B5563?style=flat-square" alt="Business Logic Flaws" />
+</p>
+
+#### 🛠️ Security Tools Used
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Metasploit-11315B?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
+</p>
 
 ---
 
