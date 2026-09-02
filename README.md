@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Anant Tripathi! 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Building+with+Code+%7C+Securing+with+Cybersecurity;Exploring+Quantum+Computing+%2B+AI;Future+Software+Engineer+%7C+Purple+Teamer;Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=850&lines=Building+with+Code+%7C+Securing+with+Cybersecurity;Exploring+Quantum+Computing+%2B+AI;Future+Software+Engineer+%7C+Purple+Teamer;Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://github.com/ananTripathi-future">
-    <img src="https://img.shields.io/badge/dynamic/json?color=00F0FF&label=Live%20Contributions&query=$.total.2026&url=https://github-contributions-api.jogruber.de/v4/ananTripathi-future&style=for-the-badge&logo=github" alt="Live Official Contributions" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=0969DA&label=Live%20Contributions&query=$.total.2026&url=https://github-contributions-api.jogruber.de/v4/ananTripathi-future&style=for-the-badge&logo=github" alt="Live Official Contributions" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 - 💬 **Ask Me About**: VAPT, Steganography, Qiskit, Post-Quantum Crypto (PQC), FastAPI & Python.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=%3E_Executing+VAPT+Scans...;%3E_Simulating+Post-Quantum+ML-KEM+Encryption...;%3E_Compiling+Qiskit+Quantum+Circuits...;%3E_Running+AI+Diagnostic+Agents..." alt="Live Terminal Command Stream" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=800&lines=%3E_Executing+VAPT+Scans...;%3E_Simulating+Post-Quantum+ML-KEM+Encryption...;%3E_Compiling+Qiskit+Quantum+Circuits...;%3E_Running+AI+Diagnostic+Agents..." alt="Live Terminal Command Stream" />
 </p>
 
 ---
@@ -205,11 +205,7 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 ## 📊 Live GitHub Analytics
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7c3aed,100:ff0055&height=120&section=header&text=Real-time%20Activity%20%26%20Contributions&fontSize=24&animation=fadeIn" alt="Live Glowing Waving Activity Header" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=00F0FF&label=Live%20Total%20GitHub%20Contributions&query=$.total.2026&url=https://github-contributions-api.jogruber.de/v4/ananTripathi-future&style=for-the-badge&logo=github" alt="Official Live GitHub Contributions Counter" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=0969DA&label=Live%20Total%20GitHub%20Contributions&query=$.total.2026&url=https://github-contributions-api.jogruber.de/v4/ananTripathi-future&style=for-the-badge&logo=github" alt="Official Live GitHub Contributions Counter" />
 </p>
 
 <p align="center">
