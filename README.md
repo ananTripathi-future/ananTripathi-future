@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://github.com/ananTripathi-future">
-    <img src="https://img.shields.io/badge/dynamic/json?color=00F0FF&label=Contributions&query=$.total.2026&url=https://github-contributions-api.jogruber.de/v4/ananTripathi-future&style=for-the-badge&logo=github" alt="Live Total Contributions" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=00F0FF&label=Live%20Contributions&query=$.total.2026&url=https://github-contributions-api.jogruber.de/v4/ananTripathi-future&style=for-the-badge&logo=github" alt="Live Official Contributions" />
   </a>
 </p>
 
@@ -198,6 +198,10 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:7c3aed&height=120&section=header&text=Real-time%20Activity%20%26%20Contributions&fontSize=24&animation=fadeIn" alt="Live Waving Activity Header" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=00F0FF&label=Live%20Total%20GitHub%20Contributions&query=$.total.2026&url=https://github-contributions-api.jogruber.de/v4/ananTripathi-future&style=for-the-badge&logo=github" alt="Official Live GitHub Contributions Counter" />
 </p>
 
 <p align="center">
