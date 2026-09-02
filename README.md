@@ -205,7 +205,7 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 ## 📊 Live GitHub Analytics
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:7c3aed&height=120&section=header&text=Real-time%20Activity%20%26%20Contributions&fontSize=24&animation=fadeIn" alt="Live Waving Activity Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7c3aed,100:ff0055&height=120&section=header&text=Real-time%20Activity%20%26%20Contributions&fontSize=24&animation=fadeIn" alt="Live Glowing Waving Activity Header" />
 </p>
 
 <p align="center">
@@ -213,7 +213,7 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Live Contribution Snake Eating Commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananTripathi-future&theme=tokyonight" alt="Live 24-Hour Productive Commit Activity Matrix" />
 </p>
 
 <p align="center">
@@ -222,8 +222,8 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananTripathi-future&theme=tokyonight" alt="GitHub Commit & Repository Summary" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ananTripathi-future&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananTripathi-future&theme=tokyonight" height="170" alt="Most Committed Languages Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananTripathi-future&theme=tokyonight" height="170" alt="Repositories Per Language Distribution" />
 </p>
 
 ---
