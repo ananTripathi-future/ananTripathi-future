@@ -98,29 +98,50 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,fastapi" alt="Programming and Web Skills" />
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-* **Languages**: Python, C++, Java, JavaScript
-* **Web & APIs**: HTML5, CSS3, JavaScript, React.js, FastAPI, RESTful APIs
-
-### 🛡️ Cybersecurity & Forensics
-* **Concepts**: VAPT, OWASP Top 10, OWASP API Security, Web Application Security, Network Security, Cryptography, Post-Quantum Cryptography, Security Architecture, Threat Detection, Incident Analysis
-* **Tools**: Kali Linux, Nmap, Burp Suite, Wireshark, Metasploit, Postman, Splunk, ELK Stack, Autopsy, FTK Imager, Volatility
-
-### ⚛️ Quantum Computing & Research
-* **Topics**: Qubits, Superposition, Entanglement, Quantum Gates/Circuits, Shor's Algorithm, Grover's Algorithm, QAOA, QML, QKD (BB84), Post-Quantum Cryptography
-* **Frameworks**: Qiskit, Python
-
-### ☁️ Infrastructure, DevOps & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,aws,postgres,mysql,mongodb" alt="DevOps and Databases" />
+<h3 align="center">Cybersecurity & VAPT</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/KALI_LINUX-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/BURP_SUITE-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/METASPLOIT-11315B?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/VAPT-00F0FF?style=for-the-badge&logo=shield&logoColor=black" alt="VAPT" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
 </p>
 
-* **Databases**: PostgreSQL, MySQL, MongoDB, SQL
-* **DevOps & Cloud**: Linux (Ubuntu/Kali), Docker, Kubernetes, AWS, Git, GitHub, CI/CD Pipelines
+<h3 align="center">Quantum Computing & Cryptography</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/QISKIT-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
+  <img src="https://img.shields.io/badge/QUANTUM_ML-000000?style=for-the-badge" alt="Quantum ML" />
+  <img src="https://img.shields.io/badge/POST--QUANTUM_CRYPTO-10B981?style=for-the-badge" alt="PQC" />
+</p>
+
+<h3 align="center">AI & Web Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<h3 align="center">Cloud, DevOps & Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
