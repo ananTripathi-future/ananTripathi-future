@@ -63,7 +63,7 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 | **⚛️ QuantumMed AI** | QML & AI-powered healthcare system for medical diagnosis and patient support. | `Python` `Qiskit` `PyTorch` `FastAPI` `React.js` `Quantum ML` |
 | **🛡️ Quantum Secure Drone System** | Drone communication network protected by post-quantum encryption & intrusion detection. | `Python` `Cryptography` `PQC` `Networking` `IoT Security` |
 | **🔐 PQC Trinity Gateway** | High-security communication gateway implementing ML-KEM and ML-DSA post-quantum algorithms. | `PQC` `ML-KEM` `ML-DSA` `Secure APIs` `Cryptography` |
-| **🎵 AudioSteg v2.0** | LSB-based audio steganography app with Fernet encryption & dark-mode GUI. | `Python` `Tkinter` `Fernet` `LSB Steganography` `WAV Processing` |
+| **🎵 Advanced-Audio-Steganography** | LSB-based audio steganography app with Fernet encryption & dark-mode GUI. | `Python` `Tkinter` `Fernet` `LSB Steganography` `WAV Processing` |
 | **🪖 Sena-Secure** | Defense-grade secure information exchange platform with role-based access control. | `Cybersecurity` `RBAC` `Encrypted Comms` `Access Control` |
 | **🤖 Personal AI Assistant** | AI assistant equipped with LLM integrations, voice interaction, tool calling, and workflow automation. | `Python` `LLMs` `Voice AI` `Tool Calling` `Automation` |
 
