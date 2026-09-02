@@ -28,7 +28,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" alt="Laptop" /> About Me
 
 I'm **Anant Tripathi**, a Computer Science Engineering undergraduate at **SRM Institute of Science and Technology, Kattankulathur**. I am driven by building robust software systems, exploring quantum-resistant encryption, and securing applications from security threats.
 
@@ -51,7 +51,7 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 
 ---
 
-## 💼 Internship Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="35" alt="Shield" /> Internship Experience
 
 ### 🔐 Cybersecurity Intern — Supraja Technologies
 📅 **Duration**: 8 January 2026 – 3 May 2026
@@ -64,7 +64,7 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" alt="Rocket" /> Featured Projects
 
 | Project | Description | Tech Stack & Tags |
 | :--- | :--- | :--- |
@@ -77,7 +77,7 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 
 ---
 
-## 🛠️ Technical Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" width="35" alt="Atom Symbol" /> Technical Skills
 
 #### 💻 Programming
 > `Python` • `C++` • `Java` • `JavaScript` • `SQL` • `Bash / Shell`
@@ -202,10 +202,14 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 
 ---
 
-## 📊 Live GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" alt="Bar Chart" /> Live GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=0969DA&label=Live%20Total%20GitHub%20Contributions&query=$.total.2026&url=https://github-contributions-api.jogruber.de/v4/ananTripathi-future&style=for-the-badge&logo=github" alt="Official Live GitHub Contributions Counter" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=0969DA&label=Official%20Live%20GitHub%20Contributions&query=$.total.2026&url=https://github-contributions-api.jogruber.de/v4/ananTripathi-future&style=for-the-badge&logo=github" alt="Official Live GitHub Contributions Counter" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Live Contribution Snake Game" />
 </p>
 
 <p align="center">
