@@ -32,6 +32,10 @@
 
 I'm **Anant Tripathi**, a Computer Science Engineering undergraduate at **SRM Institute of Science and Technology, Kattankulathur**. I am driven by building robust software systems, exploring quantum-resistant encryption, and securing applications from security threats.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Live Developer Coding Workspace" width="450" />
+</p>
+
 ```text
 Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computing
 ```
@@ -40,6 +44,10 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 - 🎓 **Education**: B.Tech CSE @ SRM IST (CGPA: 8.4 | Expected 2028)
 - 📍 **Location**: Chennai, Tamil Nadu, India
 - 💬 **Ask Me About**: VAPT, Steganography, Qiskit, Post-Quantum Crypto (PQC), FastAPI & Python.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=%3E_Executing+VAPT+Scans...;%3E_Simulating+Post-Quantum+ML-KEM+Encryption...;%3E_Compiling+Qiskit+Quantum+Circuits...;%3E_Running+AI+Diagnostic+Agents..." alt="Live Terminal Command Stream" />
+</p>
 
 ---
 
@@ -202,6 +210,10 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=00F0FF&label=Live%20Total%20GitHub%20Contributions&query=$.total.2026&url=https://github-contributions-api.jogruber.de/v4/ananTripathi-future&style=for-the-badge&logo=github" alt="Official Live GitHub Contributions Counter" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Live Contribution Snake Eating Commits" />
 </p>
 
 <p align="center">
