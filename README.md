@@ -116,7 +116,7 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
 </p>
 
-<h3 align="center">Quantum Computing & Cryptography</h3>
+<h3 align="center">Quantum Computing & Post-Quantum Cryptography</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/QISKIT-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
   <img src="https://img.shields.io/badge/QUANTUM_ML-000000?style=for-the-badge" alt="Quantum ML" />
@@ -165,12 +165,12 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananTripathi-future&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Anant's GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananTripathi-future&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ananTripathi-future&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Anant's GitHub Stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=ananTripathi-future&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananTripathi-future&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ananTripathi-future&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
