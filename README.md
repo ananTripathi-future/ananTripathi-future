@@ -17,6 +17,9 @@
   <a href="https://github.com/ananTripathi-future">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
+  <a href="https://github.com/ananTripathi-future">
+    <img src="https://img.shields.io/badge/dynamic/json?color=00F0FF&label=Contributions&query=$.total.2026&url=https://github-contributions-api.jogruber.de/v4/ananTripathi-future&style=for-the-badge&logo=github" alt="Live Total Contributions" />
+  </a>
 </p>
 
 <p align="center">
@@ -163,6 +166,10 @@ Software Engineering + Cybersecurity + Artificial Intelligence + Quantum Computi
 ---
 
 ## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananTripathi-future&theme=tokyonight" alt="Anant's Profile Details & Live Contributions" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ananTripathi-future&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Anant's GitHub Stats" height="170" />
